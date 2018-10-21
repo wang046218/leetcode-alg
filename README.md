@@ -1,3 +1,4 @@
+```py
 # hi, wang zhi jun
 # sdfsdfsdf
 
@@ -89,3 +90,4 @@ def get_date(y, m, d, long=1):
     
     rd = (d, days_cur_mon)[d > days_cur_mon]
     return ry, rm, rd
+```
